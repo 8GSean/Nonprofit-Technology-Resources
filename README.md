@@ -75,6 +75,21 @@ Potential benefits include:
 
 https://www.microsoft.com/nonprofits
 
+
+## Tov-learn
+
+An open-source learning platform for technical education.
+
+Includes:
+
+- Interactive AI-guided lessons
+- Spaced repetition and quizzes
+- Progress tracking and dashboards
+- Project-based learning workflows
+
+https://github.com/TovTechOrg/Tov-learn
+
+
 ## Goodstack
 
 A verification platform used by a growing number of nonprofit programs.
