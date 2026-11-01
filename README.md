@@ -152,26 +152,6 @@ with active budget and usage monitoring.
 
 https://aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/
 
-## Miro for Nonprofits
-
-Miro offers **30% off** paid plans for eligible nonprofits. Annual billing may
-provide additional savings, but Miro is less valuable than the free programs
-above unless collaborative whiteboards are central to the organization's
-work.
-
-https://miro.com/npo/
-
-## 1Password for Nonprofits
-
-1Password confirms that it offers nonprofit support, but it does **not publish
-a standard fixed percentage or public nonprofit price** on its nonprofit
-page. The available discount, credit, or support is determined after applying.
-
-Because the value is not clear in advance, treat this as an optional program,
-not a confirmed discount.
-
-https://1password.com/for-non-profits
-
 ## TechSoup
 
 TechSoup is a primary gateway to nonprofit technology programs and validation.
